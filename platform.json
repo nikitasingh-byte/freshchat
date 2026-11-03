@@ -1,0 +1,14 @@
+{
+  "name": "freshchat",
+  "type": "fullstack",
+  "frontend": {
+    "build": "npm run build",
+    "output": "dist"
+  },
+  "api": {
+    "entry": "api/index.ts",
+    "runtime": "nodejs20"
+  },
+  "tables": [],
+  "access": []
+}
